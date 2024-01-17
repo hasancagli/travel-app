@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NextJS | Tailwind | TypeScript UI/UX Project
+
+<img width="1887" alt="Screenshot 2024-01-17 at 15 59 43" src="https://github.com/hasancagli/travel-app/assets/53555551/0415d7d1-dc8f-490d-83c6-a2360a325298">
 
 ## Getting Started
 
